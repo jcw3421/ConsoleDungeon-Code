@@ -19,7 +19,7 @@ Unity 프로젝트 전체가 아니라, **정창우(jcw3421)가 실제로 커밋
 
 | 내 커밋 | 포함 파일 | 직접 만든 파일 | 수정한 파일 | 남아 있는 내 코드 줄 |
 |---|---|---|---|---|
-| 6 | 7 | 6 | 1 | 377 |
+| 6 | 7 | 7 | 0 | 377 |
 
 ## 직접 만든 파일
 
@@ -27,16 +27,11 @@ Unity 프로젝트 전체가 아니라, **정창우(jcw3421)가 실제로 커밋
 |---|---|---|
 | [`test/Character.cs`](test/Character.cs) | 20 / 20 | 100% |
 | [`test/DungeonGame.cs`](test/DungeonGame.cs) | 90 / 90 | 100% |
+| [`test/Map.cs`](test/Map.cs) | 116 / 116 | 100% |
 | [`test/Monster.cs`](test/Monster.cs) | 26 / 26 | 100% |
 | [`test/Player.cs`](test/Player.cs) | 30 / 30 | 100% |
 | [`test/Program.cs`](test/Program.cs) | 43 / 43 | 100% |
 | [`test/SimpleMapGenerator.cs`](test/SimpleMapGenerator.cs) | 52 / 52 | 100% |
-
-## 수정에 참여한 파일
-
-| 파일 | 내 줄 / 전체 | 비율 |
-|---|---|---|
-| [`test/Map.cs`](test/Map.cs) | 116 / 116 | 100% |
 
 ## 내 커밋 기록
 
